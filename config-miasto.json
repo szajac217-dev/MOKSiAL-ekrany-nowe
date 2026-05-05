@@ -1,0 +1,24 @@
+{
+  "title": "Szklarska Poręba - Ekrany Miasta",
+  "modeLabel": "MIASTO",
+  "sectionTitle": "Wydarzenia miasta",
+  "postersJson": "plakaty-miasto.json",
+  "logoImage": "logo-moksial.svg",
+  "qrMoksial": "qr-moksial.png",
+  "qrMiasto": "qr-miasto.png",
+  "clockColor": "#ffffff",
+  "accentA": "#58d56b",
+  "accentB": "#ffb13b",
+  "accentC": "#e4df00",
+  "accentD": "#65d9ff",
+  "footerText": "Szklarska Poręba • wydarzenia • atrakcje • kultura • zeskanuj kod QR",
+  "topMessages": [
+    "Witamy w Szklarskiej Porębie",
+    "Miłego dnia",
+    "Miłego pobytu w górach",
+    "Odkrywaj Szklarską Porębę",
+    "Zobacz, co dzieje się w mieście",
+    "Dobrego dnia",
+    "Ciesz się pięknem Karkonoszy"
+  ]
+}
