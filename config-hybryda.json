@@ -1,0 +1,25 @@
+{
+  "title": "Ekran Hybryda",
+  "modeLabel": "HYBRYDA",
+  "sectionTitle": "Wydarzenie dnia",
+  "postersJson": "plakaty-hybryda.json",
+  "qrMoksial": "qr-moksial.png",
+  "qrMiasto": "qr-miasto.png",
+  "clockColor": "#ffffff",
+  "accentA": "#65d9ff",
+  "accentB": "#ff4f91",
+  "accentC": "#ffcf4a",
+  "accentD": "#58d56b",
+  "footerText": "MOKSiAL • kino • koncerty • warsztaty • wydarzenia miejskie • zeskanuj kod QR",
+  "topMessages": [
+    "Miłego dnia",
+    "Witamy",
+    "Sprawdź, co dzieje się dziś",
+    "Zapraszamy",
+    "Miłego pobytu",
+    "Dobrze, że tu jesteś",
+    "Kultura i miasto w jednym miejscu"
+  ],
+  "logoMoksial": "logo-moksial.png",
+  "logoMiasto": "logo-szklarska.png"
+}
