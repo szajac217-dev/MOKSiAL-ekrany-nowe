@@ -4,5 +4,5 @@
   "posterBase": "https://raw.githubusercontent.com/szajac217-dev/repertuar-test/main/posters/",
   "every": 5,
   "duration": 20000,
-  "maxItems": 6
+  "maxItems": 12
 }
