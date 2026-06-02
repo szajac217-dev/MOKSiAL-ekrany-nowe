@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "json": "https://szajac217-dev.github.io/repertuar-test/data/2026-06.json",
+  "posterBase": "https://raw.githubusercontent.com/szajac217-dev/repertuar-test/main/posters/",
+  "every": 5,
+  "duration": 20000,
+  "maxItems": 6
+}
