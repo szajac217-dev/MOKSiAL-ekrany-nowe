@@ -4,5 +4,7 @@
   "posterBase": "https://raw.githubusercontent.com/szajac217-dev/repertuar-test/main/posters/",
   "every": 5,
   "duration": 20000,
-  "maxItems": 12
+  "maxItems": 12,
+  "mapQr": true,
+  "mapUrl": "https://maps.app.goo.gl/3AYsU7GBbGFrhPVo9"
 }
