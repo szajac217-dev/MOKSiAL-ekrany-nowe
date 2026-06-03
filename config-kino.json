@@ -4,7 +4,7 @@
   "posterBase": "https://raw.githubusercontent.com/szajac217-dev/repertuar-test/main/posters/",
   "every": 5,
   "duration": 20000,
-  "maxItems": 5,
+  "maxItems": 8,
   "mapQr": true,
   "mapUrl": "https://maps.app.goo.gl/3AYsU7GBbGFrhPVo9",
   "mapQrImage": "KOD_QR_KINO_TRASA.png"
