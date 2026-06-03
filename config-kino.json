@@ -6,5 +6,6 @@
   "duration": 20000,
   "maxItems": 12,
   "mapQr": true,
-  "mapUrl": "https://maps.app.goo.gl/3AYsU7GBbGFrhPVo9"
+  "mapUrl": "https://maps.app.goo.gl/3AYsU7GBbGFrhPVo9",
+  "mapQrImage": "KOD_QR_KINO_TRASA.png"
 }
